@@ -1,0 +1,2 @@
+This programm reads a txt file and finds the frequency of every letter. Then it replaces the most shown letter with the 
+least shown letter and the least shown with the most shown. In the end the result is the altered text with capital letters.
